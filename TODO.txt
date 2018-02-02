@@ -1,4 +1,4 @@
 TEST
 SOME TEXT MORE
 ...and some
-xxx
+xxx from another
